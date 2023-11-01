@@ -1,4 +1,5 @@
 # infa_slivina
 
-its snowing
-november
+function addNumber(a,b) {
+  return a + b;
+}
